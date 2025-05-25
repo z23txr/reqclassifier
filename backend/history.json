@@ -86,5 +86,9 @@
   {
     "requirement": "The system shall allow users to log in using their email and password.",
     "prediction": "FR"
+  },
+  {
+    "requirement": "The system should allow user to track their order",
+    "prediction": "FR"
   }
 ]
